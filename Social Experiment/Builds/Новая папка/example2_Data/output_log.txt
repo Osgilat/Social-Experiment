@@ -1,0 +1,68 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740M (ID=0x1292)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\WorkSpace\Unity\Roll a Ball\Builds\Новая папка\example2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\WorkSpace\Unity\Roll a Ball\Builds\Новая папка\example2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\WorkSpace\Unity\Roll a Ball\Builds\Новая папка\example2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\WorkSpace\Unity\Roll a Ball\Builds\Новая папка\example2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\WorkSpace\Unity\Roll a Ball\Builds\Новая папка\example2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\WorkSpace\Unity\Roll a Ball\Builds\Новая папка\example2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\WorkSpace\Unity\Roll a Ball\Builds\Новая папка\example2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\WorkSpace\Unity\Roll a Ball\Builds\Новая папка\example2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.129 seconds
+Platform assembly: D:\WorkSpace\Unity\Roll a Ball\Builds\Новая папка\example2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\WorkSpace\Unity\Roll a Ball\Builds\Новая папка\example2_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1080 59Hz; virtual: 4480x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.738131 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 92bc -> priority: 1 
+  Thread -> id: b99c -> priority: 1 
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+MatchMakingClient Join :https://mm.unet.unity3d.com/json/reply/JoinMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 386)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 386)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 386)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.342978 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1042.
+Total: 1.280825 ms (FindLiveObjects: 0.083820 ms CreateObjectMapping: 0.030791 ms MarkObjects: 1.153384 ms  DeleteObjects: 0.012401 ms)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:52.28.11.218:9999}
+MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropConnectionRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropConnectionRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+UnloadTime: 0.855736 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1014.
+Total: 0.864289 ms (FindLiveObjects: 0.027797 ms CreateObjectMapping: 0.023520 ms MarkObjects: 0.799286 ms  DeleteObjects: 0.013257 ms)
+
